@@ -1,6 +1,6 @@
 [TotalScores]
 
-[xpScores]
+[BucketScores]
 
 [metasploitableScores]
 
