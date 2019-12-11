@@ -1,12 +1,4 @@
 [TotalScores]
 
-[BadStoreScores]
-
-[metasploitableScores]
-
-[weakwinScores]
-
-[lampywampyScores]
-
-[win98Scores]
+[XVWAScores]
 
